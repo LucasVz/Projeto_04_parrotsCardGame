@@ -46,6 +46,14 @@ h1{
   transform: rotateY(-180deg);
 }
 
+.achou-par-frente{
+  transform: rotateY(0deg);
+}
+
+.achou-par-verso{
+  transform: rotateY(-180deg);
+}
+
 .verso-carta, .frente-carta{
   width: 100%;
   height: 100%;
