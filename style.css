@@ -46,12 +46,12 @@ h1{
   transform: rotateY(-180deg);
 }
 
-.achou-par-frente{
-  transform: rotateY(0deg);
+.nao-clicavel{
+  pointer-events: none;
 }
 
-.achou-par-verso{
-  transform: rotateY(-180deg);
+.nao-clicavel-primeira-carta{
+  pointer-events: none;
 }
 
 .verso-carta, .frente-carta{
