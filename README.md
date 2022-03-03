@@ -1,13 +1,14 @@
 # Parrot-Card-Game
 
-um jogo da memoria.
+Um jogo da memoria.
 
 <img src="/imgs/parrots-usage.gif" />
 
 ## Sobre
 
-Parrot-Card-Game é um jogo da memoria com cartas de papagaios criado com JS e possue as seguintes funções:
+Parrot-Card-Game é um jogo da memoria com cartas de papagaios criado com JS
 
+possue as seguintes funções:
 - escolher quantidade de cartas
 - selecionar cartas
 
